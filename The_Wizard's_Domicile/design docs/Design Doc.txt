@@ -1,0 +1,11 @@
+Basic Requirements
+Our game code will need to handle a few basic things:
+- Looking around
+- Walking to different locations
+- Picking up objects
+- Performing actions on the objects picked up
+
+Must be able to 'see' or 'look' at:
+-Basic scenery
+- One or more paths to other locations
+- Objects that you can pick up and manipulate
